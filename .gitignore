@@ -1,4 +1,6 @@
 /qwe
-/.idea/
-/.DS_Store
+
+.idea/
+/.idea
 article.sublime-workspace
+.DS_Store
